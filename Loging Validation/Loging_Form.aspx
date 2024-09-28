@@ -11,7 +11,9 @@
         }
         .auto-style2 {
             color: #0000FF;
-            width: 200px;
+            width: 179px;
+            text-align: center;
+            font-size: xx-large;
         }
         .auto-style3 {
             height: 29px;
@@ -30,11 +32,11 @@
         .auto-style6 {
             height: 29px;
             text-align: right;
-            width: 200px;
+            width: 179px;
         }
         .auto-style7 {
             text-align: right;
-            width: 200px;
+            width: 179px;
         }
         .auto-style9 {
             width: 315px;
@@ -49,6 +51,9 @@
         .auto-style12 {
             color: #FF3300;
         }
+        .auto-style14 {
+            font-size: large;
+        }
     </style>
 </head>
 <body>
@@ -57,7 +62,9 @@
             <table class="auto-style1">
                 <tr>
                     <td class="auto-style9">&nbsp;</td>
-                    <td class="auto-style2"><strong>LOGING FORM</strong></td>
+                    <td class="auto-style2">
+                        <h1><strong><span class="auto-style14">LOGING FORM</span></strong></h1>
+                    </td>
                     <td>&nbsp;</td>
                 </tr>
                 <tr>
